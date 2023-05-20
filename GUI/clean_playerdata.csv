@@ -1,0 +1,91 @@
+athleteID,name,position,draftInfo,team,receptions,receiving_yards,receiving_td,solo_tackles,forced_fumbles,interceptions,passed_defended,rush_att,rush_yds,rush_td,sacks,passing_yards,passing_td
+3126179,Matthew Adams,LB,"2018: Rd 7, Pk 221 (IND)",CLE,0,0,0,17,1,0,0,0,0,0,0,0,0
+3918298,Josh Allen,QB,"2018: Rd 1, Pk 7 (BUF)",BUF,0,0,0,0,0,14,0,0,0,0,0,"4,283",35
+3115293,Kyle Allen,QB,undrafted,BUF,0,0,0,0,0,4,0,0,0,0,0,416,2
+3915507,Jerome Baker,LB,"2018: Rd 3, Pk 73 (MIA)",MIA,0,0,0,66,1,0,0,0,0,0,4,0,0
+3929630,Saquon Barkley,RB,"2018: Rd 1, Pk 2 (NYG)",NYG,0,0,0,0,0,0,0,295,"1,312",10,0,0,0
+3919512,Jessie Bates III,S,"2018: Rd 2, Pk 54 (CIN)",ATL,0,0,0,0,0,0,8,0,0,0,0,0,0
+3116187,Ja'Whaun Bentley,LB,"2018: Rd 5, Pk 143 (NE)",NE,0,0,0,62,0,0,0,0,0,0,3,0,0
+3123075,Braxton Berrios,WR,"2018: Rd 6, Pk 210 (NE)",MIA,18,145,0,0,0,0,0,0,0,0,0,0,0
+3060403,Chris Board,LB,undrafted,NE,0,0,0,17,1,0,0,0,0,0,0,0,0
+3139033,Mike Boone,RB,undrafted,HOU,0,0,0,0,0,0,0,24,102,0,0,0,0
+3045169,Tim Boyle,QB,undrafted,NYJ,0,0,0,0,0,2,0,0,0,0,0,33,0
+3051746,Oren Burks,LB,"2018: Rd 3, Pk 88 (GB)",SF,0,0,0,15,0,0,0,0,0,0,0.5,0,0
+3915097,Antonio Callaway,WR,"2018: Rd 4, Pk 105 (CLE)",DAL,2,20,0,0,0,0,0,0,0,0,0,0,0
+3128715,Lorenzo Carter,LB,"2018: Rd 3, Pk 66 (NYG)",ATL,0,0,0,29,0,0,0,0,0,0,4,0,0
+3125287,Andre Chachere,S,undrafted,PHI,0,0,0,0,0,0,0,0,0,0,0,0,0
+3115394,DJ Chark,WR,"2018: Rd 2, Pk 61 (JAX)",CAR,30,502,3,0,0,0,0,0,0,0,0,0,0
+3116733,Bradley Chubb,LB,"2018: Rd 1, Pk 5 (DEN)",MIA,0,0,0,20,3,0,0,0,0,0,8,0,0
+3128720,Nick Chubb,RB,"2018: Rd 2, Pk 35 (CLE)",CLE,0,0,0,0,0,0,0,302,"1,525",12,0,0,0
+3912547,Sam Darnold,QB,"2018: Rd 1, Pk 3 (NYJ)",SF,0,0,0,0,0,3,0,0,0,0,0,"1,143",7
+3124058,Marcus Davenport,LB,"2018: Rd 1, Pk 14 (NO)",MIN,0,0,0,16,0,0,0,0,0,0,0.5,0,0
+3131775,Tae Davis,LB,undrafted,ATL,0,0,0,2,0,0,0,0,0,0,0,0,0
+3119195,Chase Edmonds,RB,"2018: Rd 4, Pk 134 (ARI)",TB,0,0,0,0,0,0,0,68,245,2,0,0,0
+3124067,Terrell Edmunds,S,"2018: Rd 1, Pk 28 (PIT)",PHI,0,0,0,0,0,0,5,0,0,0,0,0,0
+3929950,Tremaine Edmunds,LB,"2018: Rd 1, Pk 16 (BUF)",CHI,0,0,0,66,0,0,0,0,0,0,1,0,0
+3051926,Gus Edwards,RB,undrafted,BAL,0,0,0,0,0,0,0,87,433,3,0,0,0
+3929846,DeShon Elliott,S,"2018: Rd 6, Pk 190 (BAL)",MIA,0,0,0,0,0,0,3,0,0,0,0,0,0
+3925345,Minkah Fitzpatrick,S,"2018: Rd 1, Pk 11 (MIA)",PIT,0,0,0,0,0,0,11,0,0,0,0,0,0
+3124005,Zaire Franklin,LB,"2018: Rd 7, Pk 235 (IND)",IND,0,0,0,102,3,0,0,0,0,0,3,0,0
+3115378,Russell Gage,WR,"2018: Rd 6, Pk 194 (ATL)",TB,51,426,5,0,0,0,0,0,0,0,0,0,0
+4036348,Michael Gallup,WR,"2018: Rd 3, Pk 81 (DAL)",DAL,39,424,4,0,0,0,0,0,0,0,0,0,0
+4334300,Dennis Gardeck,LB,undrafted,ARI,0,0,0,22,1,0,0,0,0,0,1,0,0
+3115481,J.T. Gray,S,undrafted,NO,0,0,0,0,0,0,0,0,0,0,0,0,0
+3916430,Nyheim Hines,RB,"2018: Rd 4, Pk 104 (IND)",BUF,0,0,0,0,0,0,0,24,33,1,0,0,0
+3047876,KhaDarel Hodge,WR,undrafted,ATL,13,202,1,0,0,0,0,0,0,0,0,0,0
+3916387,Lamar Jackson,QB,"2018: Rd 1, Pk 32 (BAL)",BAL,0,0,0,0,0,7,0,0,0,0,0,"2,242",17
+3122899,Richie James,WR,"2018: Rd 7, Pk 240 (SF)",KC,57,569,4,0,0,0,0,0,0,0,0,0,0
+3691739,Derwin James Jr.,S,"2018: Rd 1, Pk 17 (LAC)",LAC,0,0,0,0,0,0,6,0,0,0,0,0,0
+3821576,Malik Jefferson,LB,"2018: Rd 3, Pk 78 (CIN)",DAL,0,0,0,3,0,0,0,0,0,0,0,0,0
+3040150,Josey Jewell,LB,"2018: Rd 4, Pk 106 (DEN)",DEN,0,0,0,70,2,0,0,0,0,0,2.5,0,0
+3912550,Ronald Jones,RB,"2018: Rd 2, Pk 38 (TB)",DAL,0,0,0,0,0,0,0,17,70,1,0,0,0
+3843843,Arden Key,LB,"2018: Rd 3, Pk 87 (OAK)",TEN,0,0,0,16,0,0,0,0,0,0,4.5,0,0
+3895856,Christian Kirk,WR,"2018: Rd 2, Pk 47 (ARI)",JAX,84,"1,108",8,0,0,0,0,0,0,0,0,0,0
+3046401,Keith Kirkwood,WR,undrafted,NO,2,18,0,0,0,0,0,0,0,0,0,0,0
+3122430,Chris Lacy,WR,undrafted,LV,3,60,0,0,0,0,0,0,0,0,0,0,0
+3122793,Harold Landry III,LB,"2018: Rd 2, Pk 41 (TEN)",TEN,0,0,0,51,1,0,0,0,0,0,12,0,0
+3128390,Allen Lazard,WR,undrafted,NYJ,60,788,6,0,0,0,0,0,0,0,0,0,0
+3053801,Dallin Leavitt,S,undrafted,GB,0,0,0,0,0,0,0,0,0,0,0,0,0
+3056362,Shaquille Leonard,LB,"2018: Rd 2, Pk 36 (IND)",IND,0,0,0,8,0,0,0,0,0,0,0,0,0
+3127273,Frankie Luvu,LB,undrafted,CAR,0,0,0,76,1,0,0,0,0,0,7,0,0
+3138764,Jacob Martin,LB,"2018: Rd 6, Pk 186 (SEA)",DEN,0,0,0,7,1,0,0,0,0,0,2.5,0,0
+3052587,Baker Mayfield,QB,"2018: Rd 1, Pk 1 (CLE)",TB,0,0,0,0,0,8,0,0,0,0,0,"2,163",10
+3728262,Ray-Ray McCloud III,WR,"2018: Rd 6, Pk 187 (BUF)",SF,14,243,1,0,0,0,0,0,0,0,0,0,0
+3050487,Anthony Miller,WR,"2018: Rd 2, Pk 51 (CHI)",PIT,6,25,1,0,0,0,0,0,0,0,0,0,0
+3915416,DJ Moore,WR,"2018: Rd 1, Pk 24 (CAR)",CHI,63,888,7,0,0,0,0,0,0,0,0,0,0
+4039278,Tarvarius Moore,S,"2018: Rd 3, Pk 95 (SF)",GB,0,0,0,0,0,0,0,0,0,0,0,0,0
+3121344,Ryan Neal,S,undrafted,TB,0,0,0,0,0,0,8,0,0,0,0,0,0
+3140643,Ben Niemann,LB,undrafted,TEN,0,0,0,38,0,0,0,0,0,0,0,0,0
+3120358,Uchenna Nwosu,LB,"2018: Rd 2, Pk 48 (LAC)",SEA,0,0,0,42,3,0,0,0,0,0,9.5,0,0
+3050199,George Odum,S,undrafted,SF,0,0,0,0,0,0,1,0,0,0,0,0,0
+3050073,Foyesade Oluokun,LB,"2018: Rd 6, Pk 200 (ATL)",JAX,0,0,0,128,2,0,0,0,0,0,2,0,0
+3139925,Rashaad Penny,RB,"2018: Rd 1, Pk 27 (SEA)",PHI,0,0,0,0,0,0,0,57,346,2,0,0,0
+3127306,Dante Pettis,WR,"2018: Rd 2, Pk 44 (SF)",CHI,19,245,3,0,0,0,0,0,0,0,0,0,0
+3115255,Brandon Powell,WR,undrafted,MIN,24,156,0,0,0,0,0,0,0,0,0,0,0
+3125248,Jeremy Reaves,S,undrafted,WSH,0,0,0,0,0,0,1,0,0,0,0,0,0
+3931399,Justin Reid,S,"2018: Rd 3, Pk 68 (HOU)",KC,0,0,0,0,0,0,7,0,0,0,0,0,0
+3925357,Calvin Ridley,WR,"2018: Rd 1, Pk 26 (ATL)",JAX,31,281,2,0,0,0,0,0,0,0,0,0,0
+3051439,Boston Scott,RB,"2018: Rd 6, Pk 201 (NO)",PHI,0,0,0,0,0,0,0,54,217,3,0,0,0
+3122168,Trent Sherfield,WR,undrafted,BUF,30,417,2,0,0,0,0,0,0,0,0,0,0
+3115314,Cam Sims,WR,undrafted,LV,8,89,0,0,0,0,0,0,0,0,0,0,0
+3915189,Roquan Smith,LB,"2018: Rd 1, Pk 8 (CHI)",BAL,0,0,0,103,0,0,0,0,0,0,4.5,0,0
+3128451,Tre'Quan Smith,WR,"2018: Rd 3, Pk 91 (NO)",NO,19,278,1,0,0,0,0,0,0,0,0,0,0
+3155188,Vyncint Smith,WR,undrafted,IND,0,0,0,0,0,0,0,0,0,0,0,0,0
+3129446,Robert Spillane,LB,undrafted,LV,0,0,0,52,0,0,0,0,0,0,1,0,0
+3932442,Equanimeous St. Brown,WR,"2018: Rd 6, Pk 207 (GB)",CHI,21,323,1,0,0,0,0,0,0,0,0,0,0
+3116679,M.J. Stewart,S,"2018: Rd 2, Pk 53 (TB)",HOU,0,0,0,0,0,0,1,0,0,0,0,0,0
+3128429,Courtland Sutton,WR,"2018: Rd 2, Pk 40 (DEN)",DEN,64,829,2,0,0,0,0,0,0,0,0,0,0
+3921564,Auden Tate,WR,"2018: Rd 7, Pk 253 (CIN)",ARI,3,39,1,0,0,0,0,0,0,0,0,0,0
+3894901,Ezekiel Turner,LB,undrafted,ARI,0,0,0,12,1,0,0,0,0,0,0,0,0
+3051738,Marquez Valdes-Scantling,WR,"2018: Rd 5, Pk 174 (GB)",KC,42,687,2,0,0,0,0,0,0,0,0,0,0
+3138677,Leighton Vander Esch,LB,"2018: Rd 1, Pk 19 (DAL)",DAL,0,0,0,54,1,0,0,0,0,0,1,0,0
+3042499,Tracy Walker III,S,"2018: Rd 3, Pk 82 (DET)",DET,0,0,0,0,0,0,1,0,0,0,0,0,0
+3138826,Fred Warner,LB,"2018: Rd 3, Pk 70 (SF)",SF,0,0,0,79,1,0,0,0,0,0,2,0,0
+3118892,Justin Watson,WR,"2018: Rd 5, Pk 144 (TB)",KC,15,315,2,0,0,0,0,0,0,0,0,0,0
+4039254,Kyzir White,LB,"2018: Rd 4, Pk 119 (LAC)",ARI,0,0,0,66,0,0,0,0,0,0,1.5,0,0
+3051381,Mike White,QB,"2018: Rd 5, Pk 171 (DAL)",MIA,0,0,0,0,0,4,0,0,0,0,0,"1,192",3
+3895798,Jordan Whitehead,S,"2018: Rd 4, Pk 117 (TB)",NYJ,0,0,0,0,0,0,8,0,0,0,0,0,0
+4036335,Cedrick Wilson Jr.,WR,"2018: Rd 6, Pk 208 (DAL)",MIA,12,136,0,0,0,0,0,0,0,0,0,0,0
+3122976,Jeff Wilson Jr.,RB,undrafted,MIA,0,0,0,0,0,0,0,176,860,5,0,0,0
+3128303,Josh Woods,LB,undrafted,ARI,0,0,0,10,0,0,0,0,0,0,0,0,0
+3042749,Logan Woodside,QB,"2018: Rd 7, Pk 249 (CIN)",ATL,0,0,0,0,0,0,0,0,0,0,0,0,0
