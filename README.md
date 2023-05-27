@@ -24,5 +24,8 @@ The NFL Raw Data dataset was downloaded from the <a href="https://www.advancedsp
 ## 🗂️ Dataset 2: NFL Combine Webscraped Data
 The NFL Combine Data was obtained by web scraping from the NFL Combine Results website. The data was retrieved for the year 2018 and specifically for quarterbacks. The data was organized in an HTML table format. The structure of the dataset included rows corresponding to players, with columns representing different combine metrics such as "Name," "40 Yard Dash," "Vertical Leap," "Broad Jump," "Shuttle," and "3Cone." These metrics were used to calculate the combine score for each player. The dataset provided insights into the combine performance of players, which was then combined with other data to analyze the correlation between combine performance and NFL career success.
 
+## Contacts
+- [Dylan Both (Data Analyst)](https://www.linkedin.com/in/dylan-both-31a17b216/)
+- [Rian Rahman (Data Analyst)](https://github.com/RiRah123)
 
 
