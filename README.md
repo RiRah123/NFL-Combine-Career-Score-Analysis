@@ -18,6 +18,11 @@ We hypothesized that the degree to which combine performance predicted NFL readi
 
 Ultimately, our analysis shed light on the benefits and limitations of the NFL combine, helping teams make more informed decisions when evaluating players and aiding athletes in understanding the most effective areas to focus their training efforts. By evaluating the relationship between combine performance and NFL career success, we contributed to the improvement of player analysis and preparation strategies in the NFL.
 
-# 📐 Dataset 1: NFL Raw Downloadable Data
+## 🗂️ Dataset 1: NFL Raw Downloadable Data
 The NFL Raw Data dataset was downloaded from the <a href="https://www.advancedsportsanalytics.com/nfl-raw-data">Advanced Sports Analytics website</a>. It is a CSV file containing player fantasy football data and game information for each game from 2019 to 2023. The dataset had 26,600 rows and 68 columns, with a file size of approximately 6.7 MB. The structure of the dataset consisted of multiple rows per game, with each row corresponding to a player's performance in that game. The columns of interest were "winning_team," "vis_team," and "home_team." These columns were used to determine the winning team for each game. This dataset was used to calculate the win/loss percentage of each player's team in their first year and make adjustments to their career success scores based on this ratio.
+
+## 🗂️ Dataset 2: NFL Combine Webscraped Data
+The NFL Combine Data was obtained by web scraping from the NFL Combine Results website. The data was retrieved for the year 2018 and specifically for quarterbacks. The data was organized in an HTML table format. The structure of the dataset included rows corresponding to players, with columns representing different combine metrics such as "Name," "40 Yard Dash," "Vertical Leap," "Broad Jump," "Shuttle," and "3Cone." These metrics were used to calculate the combine score for each player. The dataset provided insights into the combine performance of players, which was then combined with other data to analyze the correlation between combine performance and NFL career success.
+
+
 
