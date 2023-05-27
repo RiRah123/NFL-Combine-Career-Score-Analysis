@@ -40,6 +40,28 @@ For the API data, a pandas dataframe was created to organize the statistics that
 
 These data cleaning processes were crucial in ensuring the integrity and consistency of the data across the datasets. By addressing missing values, standardizing formats, and aggregating relevant information, the datasets were prepared for further analysis and insights to be drawn.
 
+## 🕵️ Data Insights
+
+### Insight 1: Correlation between Combine Performance and Career Success by Position
+
+Our analysis revealed a strong positive correlation between combine performance and career success for running backs (RBs) and wide receivers (WRs). This suggests that RB and WR prospects should prioritize their preparation for the NFL combine as it serves as a reliable indicator of their potential success in the league. However, an interesting finding was a negative correlation between combine performance and career success for safeties (Ss), implying that standout combine performances may not necessarily translate to success for this position.
+
+### Insight 2: Top Combine Performers and NFL Success
+
+Among the top combine performers in 2018, only Josh Allen stood out as a successful NFL player among quarterbacks (QBs). Nick Chubb was the sole running back (RB) who excelled at the combine and went on to have a good NFL career. Surprisingly, none of the wide receivers (WRs) or safeties (Ss) who dominated the combine have become prominent names in the NFL. This insight highlights the importance of considering on-field performance and other factors alongside combine results when evaluating prospects.
+
+### Insight 3: High-Scoring Players and Under-the-Radar Performers
+
+Analyzing touchdown scorers since 2019, we found that while Saquon Barkley received more attention for his combine performance, Nick Chubb has proven to be a slightly more effective NFL player. This analysis demonstrates the value of identifying productive players who may be flying under the radar and could be high-value acquisitions. Jeff Wilson Jr., for example, emerged as one of the most productive players from the 2018 combine, showcasing the potential of finding hidden gems in player analysis.
+
+### Insight 4: Athletic Anomalies and NFL Success
+
+Athletes who exhibited exceptional athleticism with a sub-4.5 40-yard dash time and a minimum of 20 reps on the bench press were considered athletic anomalies. While this combination of speed and strength is theoretically advantageous, few athletes in this category have achieved significant success in the NFL. Saquon Barkley stands out as an exception. Notably, Shaquem Griffin, despite having only one hand, excelled at the 2018 combine, demonstrating his determination and remarkable abilities.
+
+### Insight 5: Variance of 40-Yard Dash Times by Position
+
+The variance of 40-yard dash times differed across positions in the 2018 combine. Running backs (RBs) and safeties (Ss) displayed remarkably low variance, suggesting that focusing on improving their 40-yard dash times can significantly differentiate them from other athletes in their positions. On the other hand, linebackers (LBs) and quarterbacks (QBs) exhibited the highest variance, indicating that speed may be less crucial for these positions, or there is a wider range of talent levels competing in the combine for these positions.
+
 ## 🤝 Contacts
 - [Dylan Both (Data Analyst)](https://www.linkedin.com/in/dylan-both-31a17b216/)
 - [Rian Rahman (Data Analyst)](https://github.com/RiRah123)
