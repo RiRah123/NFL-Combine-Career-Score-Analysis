@@ -2,6 +2,7 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![Jupyter_Notebook](https://img.shields.io/badge/JupyterNotebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)]()
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white)]()
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)]()
 
 
 ## Project Summary
