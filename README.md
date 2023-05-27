@@ -110,7 +110,7 @@ Our project features a Graphical User Interface (GUI) that provides users with c
 
 ## Demo Video
 
-https://github.com/RiRah123/NFL-Combine-Career-Score-Analysis/assets/83044307/ea9a559e-b29a-4f4a-a2ec-4c7b8e871422
+https://github.com/RiRah123/NFL-Combine-Career-Score-Analysis/assets/83044307/3a879093-8fc1-4d94-a373-863214ca1007
 
 ## 🤝 Contacts
 - [Dylan Both (Data Analyst)](https://www.linkedin.com/in/dylan-both-31a17b216/)
