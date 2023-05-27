@@ -74,13 +74,29 @@ This visualization presents a correlation matrix, depicting the relationships be
 
 ### Visualization 2: Top Combine Performers by Position
 
+
+<p align="center">
+  <img src="./visual2.gif" width="500" height="375">
+</p>
+
+
 In this interactive visualization, you can explore the top five combine performers for each position in the 2018 NFL combine. By selecting a position from the dropdown menu, the bar plot dynamically updates to display the names and career scores of the top performers for that position. This visualization aligns with our second insight, emphasizing the limited NFL success of most top combine performers across positions, with only a few exceptions such as Josh Allen and Nick Chubb.
 
 ### Visualization 3: Box Plots - Combine Drills by Position
 
+
+<p align="center">
+  <img src="./visual3.gif" width="500" height="375">
+</p>
+
+
 This interactive visualization presents box plots for various combine drills, allowing you to select and examine any specific drill of interest. The vertical leap drill, for example, measures explosiveness. The box plots for wide receivers (WRs), running backs (RBs), and safeties (Ss) reveal similar median and 75th percentile scores, but Ss show a significantly tighter distribution. On the other hand, linebackers (LBs) and WRs exhibit wider ranges, indicating opportunities for standout performances in explosiveness. This visualization supports our third insight, highlighting the varying distributions of combine scores across positions.
 
 ### Visualization 4: Touchdown Leaders - Players from 2018
+
+<p align="center">
+  <img src="./visual4.gif" width="500" height="375">
+</p>
 
 This interactive visual illustrates the top x percent of touchdown leaders among players who debuted in 2018, where x is determined by a slider. Please note that the displayed statistics only reflect the players' 2022 performance, as a discrepancy was discovered in the dataset. Nonetheless, this visualization aligns with our third insight, showcasing the productive players from the 2018 combine who have excelled in scoring touchdowns. It offers a glimpse into the potential hidden gems and high-value acquisitions among this group of players.
 
