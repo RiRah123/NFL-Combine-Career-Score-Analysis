@@ -100,6 +100,14 @@ This interactive visualization presents box plots for various combine drills, al
 
 This interactive visual illustrates the top x percent of touchdown leaders among players who debuted in 2018, where x is determined by a slider. Please note that the displayed statistics only reflect the players' 2022 performance, as a discrepancy was discovered in the dataset. Nonetheless, this visualization aligns with our third insight, showcasing the productive players from the 2018 combine who have excelled in scoring touchdowns. It offers a glimpse into the potential hidden gems and high-value acquisitions among this group of players.
 
+## NFL Career Score Data GUI: Comprehensive Player Statistics and Analysis
+
+<p align="center">
+  <img src="./gui/graphical-user-interface.gif" width="500" height="375">
+</p>
+
+Our project features a Graphical User Interface (GUI) that provides users with comprehensive career score data for NFL players who debuted in 2018. The GUI allows users to explore player statistics such as receptions, receiving yards, receiving touchdowns, solo tackles, forced fumbles, interceptions, passes defended, rush yards, rush touchdowns, and sacks. Users can easily navigate and sort the data by searching for a specific player's name using the search bar or selecting a position from the drop-down menu. The GUI offers a user-friendly interface for seamless data exploration and analysis. To access the code for the GUI, refer to the "PhaseIII.py" file in the GUI folder, and a .gif visualization is included in our submission for reference.
+
 ## 🤝 Contacts
 - [Dylan Both (Data Analyst)](https://www.linkedin.com/in/dylan-both-31a17b216/)
 - [Rian Rahman (Data Analyst)](https://github.com/RiRah123)
