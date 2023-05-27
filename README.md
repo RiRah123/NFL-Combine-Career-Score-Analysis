@@ -67,7 +67,7 @@ The variance of 40-yard dash times differed across positions in the 2018 combine
 # Visualization 1: Correlation Matrix - Combine Scores and Career Success
 
 <p align="center">
-  <img src="./visual1.jpg" width="500" height="300">
+  <img src="./visual1.jpg" width="500" height="375">
 </p>
 
 This visualization presents a correlation matrix, depicting the relationships between combine scores and career success for each position. The intensity of the color indicates the strength of the correlation, with deeper red representing a stronger positive correlation and blue indicating a negative correlation. This visually confirms our first insight, highlighting the strong positive correlation between combine performance and NFL success for running backs (RBs) and wide receivers (WRs), while revealing the unexpected negative correlation for safeties (Ss).
