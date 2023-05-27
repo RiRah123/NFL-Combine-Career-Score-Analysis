@@ -29,7 +29,7 @@ The NFL Combine Data was obtained by web scraping from the <a href="https://nflc
 ### Dataset 3: ESPN Sport Core API Data
 The ESPN Sport Core API Data was used to retrieve <a href="https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes?limit=1000&active=true">NFL player information</a>, including career statistic and college career data. The data was obtained by making API requests to the ESPN API. The structure of the dataset was in JSON format and contained nested dictionaries. Each player's data was stored under the "athlete" key, with nested dictionaries representing different seasons of their career. This dataset provided comprehensive information about player performance across their entire NFL career. It was used to calculate career success scores and gain insights into the relationship between player performance and career success. The data from this dataset was combined with other datasets, such as combine scores, to draw meaningful conclusions.
 
-# 🛀 Data Cleaning Process
+## 🛀 Data Cleaning Process
 In the data cleaning process, several steps were taken for each dataset to ensure the accuracy and consistency of the data.
 
 For the Combine Data, empty rows were removed to eliminate any unnecessary data. Empty strings were converted to "None" values to differentiate them from actual data entries. Additionally, position abbreviations in the dataset were standardized to match the abbreviations used in the API data.
