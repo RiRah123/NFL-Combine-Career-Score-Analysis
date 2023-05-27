@@ -1,5 +1,8 @@
 # NFL Combine & Career Score Analysis
 ## Project Summary
+<p align="center">
+  <img src="./nfl-cartoon.gif" width="1000" height="450">
+</p>
 Our project analyzed the effectiveness of the NFL combine in predicting the career readiness of offensive players in the NFL. Specifically, we focused on the offensive players who participated in the combine in 2018 and examined their first-year success in the league. By examining the correlation between combine performance and NFL career success, we aimed to provide insights to improve how NFL teams evaluate players and guide athletes in their preparation for their professional careers.
 
 The NFL combine holds significant weight in an NFL hopeful's draft stock, often influencing team decisions and players' training priorities. However, there have been notable cases, such as Tom Brady, where poor combine performance did not hinder an athlete's remarkable success in the league. Therefore, we aimed to determine if the combine accurately identified NFL-ready players across different positions or if its importance should be reassessed.
