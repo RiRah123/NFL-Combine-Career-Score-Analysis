@@ -1,1 +1,9 @@
-# NFL-Combine-Career-Score-Analysis
+# NFL Combine & Career Score Analysis
+## Project Summary
+Our project aims to analyze the effectiveness of the NFL combine in predicting the career readiness of offensive players in the NFL. We specifically focus on the offensive players who participated in the combine in 2018, as this allows us to determine their first-year success in the league. By examining the correlation between combine performance and NFL career success, we hope to provide insights that can improve how NFL teams evaluate players and guide athletes in their preparation for their professional careers.
+
+The NFL combine holds significant weight in an NFL hopeful's draft stock, often influencing team decisions and players' training priorities. However, there have been notable cases, such as Tom Brady, where poor combine performance did not hinder an athlete's remarkable success in the league. Therefore, we aim to determine if the combine accurately identifies NFL-ready players across different positions or if its importance should be reassessed.
+
+We hypothesize that the degree to which combine performance predicts NFL readiness will vary by position. For example, we expect that positions requiring more skill, like quarterbacks, may not be as reliant on combine scores as other positions like linebackers. Furthermore, we anticipate that even in positions where combine performance is a strong predictor of NFL success, there will be exceptions—athletes with exceptional combine performances who do not excel in the league.
+
+Ultimately, our analysis will shed light on the benefits and limitations of the NFL combine, helping teams make more informed decisions when evaluating players and aiding athletes in understanding the most effective areas to focus their training efforts. By evaluating the relationship between combine performance and NFL career success, we aim to contribute to the improvement of player analysis and preparation strategies in the NFL.
