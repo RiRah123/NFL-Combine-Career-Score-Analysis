@@ -103,7 +103,7 @@ This interactive visual illustrates the top x percent of touchdown leaders among
 ## NFL Career Score Data GUI: Comprehensive Player Statistics and Analysis
 
 <p align="center">
-  <img src="./gui/graphical-user-interface.gif" width="500" height="375">
+  <img src="./GUI/graphical-user-interface.gif" width="500" height="375">
 </p>
 
 Our project features a Graphical User Interface (GUI) that provides users with comprehensive career score data for NFL players who debuted in 2018. The GUI allows users to explore player statistics such as receptions, receiving yards, receiving touchdowns, solo tackles, forced fumbles, interceptions, passes defended, rush yards, rush touchdowns, and sacks. Users can easily navigate and sort the data by searching for a specific player's name using the search bar or selecting a position from the drop-down menu. The GUI offers a user-friendly interface for seamless data exploration and analysis. To access the code for the GUI, refer to the "PhaseIII.py" file in the GUI folder, and a .gif visualization is included in our submission for reference.
